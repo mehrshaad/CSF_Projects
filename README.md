@@ -6,13 +6,13 @@ Semester: Fall of 2018-2019
 ## Projects summary
 <p align="justify">Our instructor gave us 3 project ideas which we had to choose one of them to implement in case to pass our computer science fundamentals course. One of the projects was actually enough to pass the course with a high score, but we wanted the full mark, so we decided to implement all 3 available projects!</p>
 
-## Project 1 - Snake Game
+## Project 1 - [Snake Game](https://github.com/mehrshaad/CSF_Projects/blob/main/Snake%20Game.cpp)
 <p align="justify">This project is a classic game which is called Snake!<br>It's terminal-based, which means there's no graphical item in the project. The main idea of implementing it was getting familiar with algorithms that were used in-game.</p>
 
-## Project 2 - Matrix Calculator
+## Project 2 - [Matrix Calculator](https://github.com/mehrshaad/CSF_Projects/blob/main/Matrix%20Calculator.cpp)
 <p align="justify">This one is a terminal-based matrix calculator which provides some functions such as summation, multiple, reverse, etc.</p>
 
-## Project 3 - Hang-Man Game
+## Project 3 - [Hang-Man Game](https://github.com/mehrshaad/CSF_Projects/blob/main/Hang-Man%20Game.cpp)
 <p align="justify">This project is also a classic terminal-based game. We tried to make it available at various difficulties, which means we classified the words by their length, into five levels and each one have about 15 words. Just try not to read the first function before playing!</p>
 
 ## Team (alphabetical order)
