@@ -7,8 +7,7 @@ Semester: Fall of 2018-2019
 <p align="justify">Our instructor gave us 3 project ideas which we had to choose one of them to implement in case to pass our computer science fundamentals course. One of the projects was actually enough to pass the course with a high score, but we wanted the full mark, so we decided to implement all 3 available projects!</p>
 
 ## Project 1 - Snake Game
-This project is a classic game which is called Snake!\
-<p style="text-align: justify;">It's terminal-based, which means there's no graphical item in the project. The main idea of implementing it was getting familiar with algorithms that were used in-game.</p>
+<p style="text-align: justify;">This project is a classic game which is called Snake!<br>It's terminal-based, which means there's no graphical item in the project. The main idea of implementing it was getting familiar with algorithms that were used in-game.</p>
 
 ## Team (alphabetical order)
 <details>
