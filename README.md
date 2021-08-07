@@ -35,7 +35,6 @@ This project is a classic game which is called Snake!\
   <a href="https://github.com/vahidaghili"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vahid-aghilzadeh-790b20158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vahidaghilizadeh.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <hr/>
 </details>
 
 <hr/>
