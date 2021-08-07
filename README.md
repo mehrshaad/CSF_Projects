@@ -4,7 +4,7 @@ Place: [University of Guilan](https://guilan.ac.ir/en/home)\
 Semester: Fall of 2018-2019
 
 ## Projects summary
-<p align="justify">Our instructor gave us 3 project ideas which we had to choose one of them to implement in case to pass our computer science fundamentals course. One of the projects was actually enough to pass the course with a high score, but we wanted the full mark, so we decided to implement all 3 available projects!</p>
+<p align="justify">Our instructor gave us 3 project ideas which we had to choose one of them to implement in case to pass our computer science fundamentals course. One of the projects was actually enough to pass the course with a high score, but we wanted the full mark, so we decided to implement all 3 available projects!<br><b>NOTE:</b> We didn't use GitHub while we were working on projects, so my team isn't added contributors.</p>
 
 ## Project 1 - [Snake Game](https://github.com/mehrshaad/CSF_Projects/blob/main/Snake%20Game.cpp)
 <p align="justify">This project is a classic game which is called Snake!<br>It's terminal-based, which means there's no graphical item in the project. The main idea of implementing it was getting familiar with algorithms that were used in-game.</p>
